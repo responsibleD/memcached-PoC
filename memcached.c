@@ -1,4 +1,5 @@
 /* 
+   compile: gcc memcached.c -o memcached -pthread
    memcache reflection script
    greeting: syn, storm, krashed, chrono, spike, niko, disliked
    Use with extreme Caution
